@@ -4,5 +4,5 @@ from polls import views
 
 urlpatterns = [
     
-    path('Our_home/', views.home)
+    path('home/', views.home)
 ]
